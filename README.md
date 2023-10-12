@@ -1,5 +1,6 @@
 # Unraveling-LEGO-Sales-Data
 This data analyst project aims to analyze data related to LEGO sets, focusing on insights from two main datasets: "lego_sets.csv" and "parent_themes.csv." It encompasses various data analysis tasks that showcase essential skills required for a data analyst job.
+(Datasets are sourced from Kaggle)
 
 1. Import Libraries and Read CSV Files:
 The project begins with importing the necessary libraries, particularly the Pandas library for data manipulation. The two primary datasets, "lego_sets.csv" and "parent_themes.csv," are loaded for further analysis.
